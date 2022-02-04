@@ -1,0 +1,14 @@
+header{
+font: 30px;
+font-family: Arial, Helvetica, sans-serif, bold;
+font-weight: bold;
+text-align: center;
+color: white;
+background-color: plum;
+padding: 20px;
+}
+
+.products
+{
+    display: flex;
+}
